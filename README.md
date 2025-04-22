@@ -1,4 +1,4 @@
 # Technical-Writing
 TECH WRITER ZONE
 
-<heading> HELLO
+<heading1> HELLO
